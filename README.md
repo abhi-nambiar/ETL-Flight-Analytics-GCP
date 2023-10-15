@@ -10,7 +10,7 @@ Develop a predictive model to estimate flight velocity and accurately predict fl
 Bureau of Transportation Statistics website for historical data, OpenSky for streaming data.
 
 ## ETL:
-Utilized GCP to load the data into Cloud Storage before finally loading into BigQuery.
+Utilized GCP to load the data into Cloud Storage before finally moving it into BigQuery.
 
 ## Analysis and Modeling:
 Conducted analysis and modeling in BigQuery datawarehouse.
